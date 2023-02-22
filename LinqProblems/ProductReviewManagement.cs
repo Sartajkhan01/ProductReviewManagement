@@ -49,7 +49,16 @@ namespace LinqProblems
             var res = list.Where(p => p.Rating > 3 && (p.ProductID == 1 || p.ProductID == 4 || p.ProductID == 9)).ToList();
             DisplayeProductsReview(res);
 
-          
+        }
+        public static void CountofReviewForEachProductID(List<ProductReview> list)
+        {
+            Console.WriteLine("Count of products for each ProductID");
+            //2 lamda Expressions
+            var result = list.GroupBy(p => p.ProductID).Select(product => new { Id = product.Key, Count = product.Count() }).ToList();
+            foreach (var item in result)
+            {
+                Console.WriteLine("ProductID: " + item.Id + " Count: " + item.Count);
+            }
         }
     }
 }
