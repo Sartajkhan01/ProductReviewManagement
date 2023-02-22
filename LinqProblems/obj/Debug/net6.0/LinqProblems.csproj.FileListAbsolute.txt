@@ -1,0 +1,15 @@
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\bin\Debug\net6.0\LinqProblems.exe
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\bin\Debug\net6.0\LinqProblems.deps.json
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\bin\Debug\net6.0\LinqProblems.runtimeconfig.json
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\bin\Debug\net6.0\LinqProblems.dll
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\bin\Debug\net6.0\LinqProblems.pdb
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.csproj.AssemblyReference.cache
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.AssemblyInfoInputs.cache
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.AssemblyInfo.cs
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.csproj.CoreCompileInputs.cache
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.dll
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\refint\LinqProblems.dll
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.pdb
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\LinqProblems.genruntimeconfig.cache
+C:\Users\sarta\source\repos\LinqProblems\LinqProblems\obj\Debug\net6.0\ref\LinqProblems.dll
